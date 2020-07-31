@@ -1,0 +1,22 @@
+{
+  "name": "izirethinkly",
+  "version": "1.0.0",
+  "description": "iziRethinkly is small lib that makes it easy to work with rethinkDB crud operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herOwOw/iziRethinkly.git"
+  },
+  "keywords": [
+    "RethinkDB"
+  ],
+  "author": "Younes.keraressi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herOwOw/iziRethinkly/issues"
+  },
+  "homepage": "https://github.com/herOwOw/iziRethinkly#readme"
+}
